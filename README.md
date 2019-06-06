@@ -1,5 +1,31 @@
 # Teaching-HEIGVD-RES-2018-Labo-HTTPInfra
 
+# Report
+
+## Step 1: Static HTTP server with apache httpd
+
+TODO
+
+About apache configuration here:
+
+/etc/apache2/ 
+
+apache2.confg
+
+/sites-available
+
+/sites-enabled
+
+About the image we used here:
+
+https://hub.docker.com/_/php
+
+## Step 2: Dynamic HTTP server with express.js
+
+
+
+---
+
 ## Objectives
 
 The first objective of this lab is to get familiar with software tools that will allow us to build a **complete web infrastructure**. By that, we mean that we will build an environment that will allow us to serve **static and dynamic content** to web browsers. To do that, we will see that the **apache httpd server** can act both as a **HTTP server** and as a **reverse proxy**. We will also see that **express.js** is a JavaScript framework that makes it very easy to write dynamic web apps.
